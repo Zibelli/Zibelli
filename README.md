@@ -1,1 +1,1 @@
-### Hi there 👋
+Passionate about technology, with a particular focus on AI, Cybersecurity, and Software Development, I hold a degree in Computer Science. Throughout my career, I have had the privilege of working on projects that blended my passions and hobbies seamlessly, creating a fulfilling and enjoyable professional journey.
