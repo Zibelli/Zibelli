@@ -1,41 +1,41 @@
-# Hi, I'm Zibelli
+# Leader - Digital Development @ IBM
 
-**Leader - Digital Development @ IBM | AI & AR/XR Solutions Architect**
-
-Computer Science graduate with 8+ years leading cross-functional teams across the Americas, passionate about driving digital transformation through AI, AR/XR, and data visualization solutions.
+Computer Science Graduate with 8+ years of leadership experience  
+Passionate about **AI, Cybersecurity, and Software Development**  
+Practice Leader/Manager leading cross-functional teams across the Americas  
 
 ## What I Do
 
-- **Leadership**: Scale teams and drive business transformation initiatives
-- **AI Innovation**: Build Watson AI solutions and enterprise chatbots
-- **AR/XR Development**: Create immersive digital experiences
-- **Cloud Architecture**: Design scalable solutions on IBM Cloud
+Creating digital experiences through **AI, AR/XR, and data visualization**. I focus on using technology to transform how businesses operate    
+
+**Leadership**: Scale teams and drive business transformation initiatives  
+**AI Innovation**: Artificial Intelligence (Watson AI, Chatbots)  
+**AR/XR Development**: Create immersive digital experiences  
+**Cloud Architecture**: Design scalable solutions on IBM Cloud  
 
 ## Tech Stack
 
 **Languages**: Python • JavaScript • HTML5 • CSS3 • Swift  
 **Frameworks**: React • Node.js • React Router  
 **Cloud**: IBM Cloud • Watson AI  
-**Tools**: Figma • Adobe Photoshop • MySQL
+**Tools**: Figma • Adobe Photoshop
 
 ## Highlights
 
-- Multiple IBM Manager's Choice Awards
-- Led successful business transformation initiatives
-- Mentored and developed new managers
-- 8+ years of progressive leadership at IBM
+Multiple IBM Manager's Choice Awards  
+Led successful business transformation initiatives  
+Scaled digital teams across US, LATAM, Mexico  
+Led enterprise transformation & mentored future leaders  
+8+ years of progressive leadership at IBM  
 
-## Recent Certifications
+## Certifications
 
-- IBM watsonx Orchestrate AI Assistant (2025)
-- Accessibility Foundations (2025)
-- Build Your Own Chatbot Level 1 (2023)
-- Architectural Thinking (2022)
+IBM watsonx Orchestrate AI Assistant • Accessibility Foundations  
+Build Your Own Chatbot • Architectural Thinking  
+IBM Cloud Essentials • DevOps Essentials • Agile Explorer
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zibelli)
 
----
-
-*"Technology is at the heart of what I do. I believe in its power to transform businesses and society for the better."*
+> _“Technology is at the heart of what I do. I believe in its power to transform businesses and society for the better.”_
