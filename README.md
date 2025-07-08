@@ -1,77 +1,41 @@
-```
-zibelli@MacBook-Pro ~ %
-Last login: Wed Jun 12 09:41:23 on ttys000
+# Hi, I'm Zibelli
 
-% neofetch
-──────────────────────────────────────────────────────────────────────────────
- User:         zibelli
- Role:         Leader - Digital Development @ IBM | AI & AR/XR Solutions Architect
- Education:    Computer Science graduate
- Experience:   8+ years leading cross-functional teams across Americas
-──────────────────────────────────────────────────────────────────────────────
+**Leader - Digital Development @ IBM | AI & AR/XR Solutions Architect**
 
-% whoami
-  zibelli
+Computer Science graduate with 8+ years leading cross-functional teams across the Americas, passionate about driving digital transformation through AI, AR/XR, and data visualization solutions.
 
-% cat ~/about.txt
-  Passionate about technology—especially AI, cybersecurity, and software development.
-  I’ve had the opportunity to work on projects that align with my interests, making my career both fulfilling and exciting.
+## What I Do
 
-% echo $MISSION
-  Driving digital transformation through AI, AR/XR, and data visualization solutions
-  that redefine enterprise digital experiences.
+- **Leadership**: Scale teams and drive business transformation initiatives
+- **AI Innovation**: Build Watson AI solutions and enterprise chatbots
+- **AR/XR Development**: Create immersive digital experiences
+- **Cloud Architecture**: Design scalable solutions on IBM Cloud
 
-% ls -l ~/social/
-  total 1
-  lrwxrwxrwx  1 zibel  staff   32 Jun 12 2025 linkedin -> https://linkedin.com/in/zibelli
+## Tech Stack
 
-% tree ~/dev/stack/
-  ~/dev/stack/
-  ├── languages/
-  │   ├── python          [████████████] 95%
-  │   ├── javascript      [███████████░] 90%
-  │   ├── html5           [███████████░] 90%
-  │   ├── css3            [██████████░░] 85%
-  │   └── swift           [████████░░░░] 70%
-  ├── frameworks/
-  │   ├── react           [███████████░] 90%
-  │   ├── react-router    [██████████░░] 80%
-  │   └── nodejs          [███████████░] 90%
-  ├── databases/
-  │   └── mysql           [█████████░░░] 75%
-  ├── cloud-platforms/
-  │   ├── ibm-cloud       [███████████░] 90%
-  │   └── watson-ai       [██████████░░] 85%
-  └── tools/
-      ├── adobe-photoshop [█████░░░░░░░] 50%
-      └── figma           [█████████░░░] 75%
+**Languages**: Python • JavaScript • HTML5 • CSS3 • Swift  
+**Frameworks**: React • Node.js • React Router  
+**Cloud**: IBM Cloud • Watson AI  
+**Tools**: Figma • Adobe Photoshop • MySQL
 
-% ls ~/certifications/ | head -8
-  2025/    IBM_watsonx_Orchestrate_AI_Assistant.cert
-  2025/    Accessibility_Foundations.cert
-  2023/    Build_Your_Own_Chatbot_Level_1.cert
-  2022/    Architectural_Thinking.cert
-  2021/    IBM_Cloud_Essentials.cert
-  2019/    IBM_Certified_Manager.cert
-  2019/    DevOps_Essentials.cert
-  2017/    IBM_Agile_Explorer.cert
+## Highlights
 
-% cat ~/specializations.txt
-  ┌─────────────────────┬────────────────────┬──────────────────────┐
-  │ Leadership & Mgmt   │ AI & Innovation    │ Cloud & DevOps       │
-  │ • Team Leadership   │ • Watson AI        │ • IBM Cloud          │
-  │ • Agile/Scrum       │ • Chatbot Dev      │ • Cloud Architecture │
-  │ • Project Mgmt      │ • AR/XR Solutions  │ • DevOps Practices   │
-  └─────────────────────┴────────────────────┴──────────────────────┘
+- Multiple IBM Manager's Choice Awards
+- Led successful business transformation initiatives
+- Mentored and developed new managers
+- 8+ years of progressive leadership at IBM
 
-% grep -i "awards\|recognition" ~/career/achievements.log
-  ✓ Multiple IBM Manager's Choice Awards
-  ✓ Led successful business transformation initiatives
-  ✓ Scaled teams across Americas (US, LATAM, Mexico)
-  ✓ Mentored and developed new managers
-  ✓ 8+ years of progressive leadership at IBM
+## Recent Certifications
 
-% echo "Technology is at the heart of what I do. I believe in its power to transform businesses and society for the better."
+- IBM watsonx Orchestrate AI Assistant (2025)
+- Accessibility Foundations (2025)
+- Build Your Own Chatbot Level 1 (2023)
+- Architectural Thinking (2022)
 
-zibel@MacBook-Pro ~ %
-```
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zibelli)
+
+---
+
+*"Technology is at the heart of what I do. I believe in its power to transform businesses and society for the better."*
