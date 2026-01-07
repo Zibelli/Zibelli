@@ -1,8 +1,8 @@
-# Leader - Digital Development @ IBM
+# Leader - AI & Creative Platforms @ IBM
 
 Computer Science Graduate with 8+ years of leadership experience  
 Passionate about **AI, Cybersecurity, and Software Development**  
-Practice Leader/Manager leading cross-functional teams across the Americas  
+Practice Leader/Manager leading cross-functional teams across Americas and Asia
 
 ## What I Do
 
@@ -24,7 +24,7 @@ Creating digital experiences through **AI, AR/XR, and data visualization**. I fo
 
 Multiple IBM Manager's Choice Awards  
 Led successful business transformation initiatives  
-Scaled digital teams across US, LATAM, Mexico  
+Scaled digital teams across US, LATAM, Mexico, Europe and Asia  
 Led enterprise transformation & mentored future leaders  
 8+ years of progressive leadership at IBM  
 
