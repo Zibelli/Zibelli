@@ -1,32 +1,32 @@
 # Leader - AI & Creative Platforms @ IBM
 
-Computer Science Graduate with 8+ years of leadership experience  
-Passionate about **AI, Cybersecurity, and Software Development**  
-Practice Leader/Manager leading cross-functional teams across Americas and Asia
+Computer Science graduate with 8+ years of leadership experience driving global initiatives across the Americas, Europe and Asia.
+Focused on building solutions at the intersection of AI and modern software development.
 
-## What I Do
+## About
+I lead multidisciplinary teams to design and deliver digital products powered by AI, immersive technologies, and scalable cloud architectures. My work centers on turning complex ideas into real world solutions that improve how organizations operate and grow.
 
-Creating digital experiences through **AI, AR/XR, and data visualization**. I focus on using technology to transform how businesses operate    
-
-**Leadership**: Scale teams and drive business transformation initiatives  
-**AI Innovation**: Artificial Intelligence (Watson AI, Chatbots)  
-**AR/XR Development**: Create immersive digital experiences  
-**Cloud Architecture**: Design scalable solutions on IBM Cloud  
+## Focus Areas
+    
+**AI & Automation - Watson AI, conversational interfaces, intelligent workflows
+**Immersive Experiences - AR/XR applications and interactive environments
+**Cloud Architecture - Scalable solutions on IBM Cloud and AWS
+**Leadership & Delivery - Team scaling, strategy execution, and cross region collaboration 
 
 ## Tech Stack
 
-**Languages**: Python • JavaScript • HTML5 • CSS3 • Swift  
-**Frameworks**: React • Node.js • React Router  
-**Cloud**: IBM Cloud • Watson AI  
-**Tools**: Figma • Adobe Photoshop
+**Languages** - Python, JavaScript, HTML5, CSS3, Swift  
+**Frameworks** - React, Node.js  
+**Cloud** - IBM Cloud, Watson AI  
+**Tools** - Figma, Adobe Photoshop
 
 ## Highlights
 
 Multiple IBM Manager's Choice Awards  
-Led successful business transformation initiatives  
-Scaled digital teams across US, LATAM, Mexico, Europe and Asia  
-Led enterprise transformation & mentored future leaders  
-8+ years of progressive leadership at IBM  
+Led large scale digital transformation initiatives across multiple regions
+Built and scaled high performing teams across the US, LATAM, Europe, and Asia
+Mentored emerging leaders and technical talent
+8+ years of continuous growth within IBM leadership roles
 
 ## Certifications
 
