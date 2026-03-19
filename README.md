@@ -8,10 +8,10 @@ I lead multidisciplinary teams to design and deliver digital products powered by
 
 ## Focus Areas
     
-**AI & Automation - Watson AI, conversational interfaces, intelligent workflows  
-**Immersive Experiences - AR/XR applications and interactive environments  
-**Cloud Architecture - Scalable solutions on IBM Cloud and AWS  
-**Leadership & Delivery - Team scaling, strategy execution, and cross region collaboration  
+**AI & Automation** - Watson AI, conversational interfaces, intelligent workflows  
+**Immersive Experiences** - AR/XR applications and interactive environments  
+**Cloud Architecture** - Scalable solutions on IBM Cloud and AWS  
+**Leadership & Delivery** - Team scaling, strategy execution, and cross region collaboration  
 
 ## Tech Stack
 
