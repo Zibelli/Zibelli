@@ -11,16 +11,16 @@ What matters most to me is helping teams reach their potential, creating environ
 
 ## Focus Areas
     
-**AI & Automation** - Watson AI, conversational interfaces, intelligent workflows  
-**Immersive Experiences** - AR/XR applications and interactive environments  
-**Cloud Architecture** - Scalable solutions on IBM Cloud and AWS  
-**Leadership & Delivery** - Team scaling, strategy execution, and cross region collaboration  
+**AI & Automation** - Watson AI platforms, conversational interfaces, and intelligent workflow automation that help organizations scale decision-making with AI.  
+**Immersive Experiences** - AR/XR application development and interactive environments bridging digital and physical spaces for enterprise and consumer contexts.  
+**Cloud Architecture** - Designing and delivering scalable, resilient cloud solutions on IBM Cloud and AWS for large-scale enterprise transformation programs.  
+**Leadership & Delivery** - Building and scaling high-performing teams across the US, LATAM, Europe, and Asia, with a track record of cross-regional collaboration and execution.  
 
 ## Tech Stack
 
 **Languages** - Python, JavaScript, HTML5, CSS3, Swift  
 **Frameworks** - React, Node.js  
-**Cloud** - IBM Cloud, Watson AI  
+**Cloud** - IBM Cloud, Watson AI / watsonx, AWS
 **Tools** - Figma, Adobe Photoshop
 
 ## Highlights
