@@ -1,10 +1,14 @@
 # Leader - AI & Creative Platforms @ IBM
 
-Computer Science graduate with 8+ years of leadership experience driving global initiatives across the Americas, Europe and Asia.
+Building and scaling AI‑driven digital platforms that turn complex technology into real business results, driving global digital transformation across the Americas, Europe, and Asia.
 Focused on building solutions at the intersection of AI and modern software development.
 
 ## About
-I lead multidisciplinary teams to design and deliver digital products powered by AI, immersive technologies, and scalable cloud architectures. My work centers on turning complex ideas into real world solutions that improve how organizations operate and grow.
+Computer Science graduate with 8+ years of leadership experience driving global initiatives across the Americas, Europe and Asia.  
+
+I lead multidisciplinary teams that design and build digital products powered by AI and scalable cloud solutions. My focus is on turning complex ideas into practical solutions that make organizations work smarter and grow faster.  
+
+What matters most to me is helping teams reach their potential, creating environments where people can innovate, collaborate, and deliver meaningful change.
 
 ## Focus Areas
     
@@ -23,10 +27,10 @@ I lead multidisciplinary teams to design and deliver digital products powered by
 ## Highlights
 
 Multiple IBM Manager's Choice Awards  
-Led large scale digital transformation initiatives across multiple regions
-Built and scaled high performing teams across the US, LATAM, Europe, and Asia
-Mentored emerging leaders and technical talent
-8+ years of continuous growth within IBM leadership roles
+Led large scale digital transformation initiatives across multiple regions  
+Built and scaled high performing teams across the US, LATAM, Europe, and Asia  
+Mentored emerging leaders and technical talent  
+8+ years of continuous growth within IBM leadership roles  
 
 ## Certifications
 
