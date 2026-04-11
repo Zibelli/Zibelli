@@ -1,7 +1,6 @@
 # Leader - AI & Creative Platforms @ IBM
 
 Building and scaling AI‑driven digital platforms that turn complex technology into real business results, driving global digital transformation across the Americas, Europe, and Asia.
-Focused on building solutions at the intersection of AI and modern software development.
 
 ## About
 Computer Science graduate with 8+ years of leadership experience driving global initiatives across the Americas, Europe and Asia.  
